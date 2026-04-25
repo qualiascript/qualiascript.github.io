@@ -4,6 +4,7 @@
 - [datra, wip programming language, rn specs only](datralang.org)
 - [cattheory.org, category theory notes](https://cattheory.org)
 - [book of `the monad`, cult manuscript / gnostic yuri fanfic](https://bookofthemonad.com/)
+- [alco★ music (that is, my music) player online](https://alcostar.net/)
 
 ## social media:
 - [x dot com, the everything app](https://x.com/qualiascript)
